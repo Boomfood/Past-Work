@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2ed172b9166c04448e89c529e30555a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CurvedBox: {fileID: 100000, guid: 0f563abd6e7d9ba44855604c09649675, type: 2}
+  - Ball: {fileID: 100000, guid: 5fdda0da3cdb8e349ab034de5b720510, type: 2}
+  - Cube: {fileID: 100000, guid: 25d85df1e1000184f9ae8f00bd3cac1f, type: 2}
+  - Cylinder: {fileID: 100000, guid: 40d9eea57681196479561e6ba4dd2aea, type: 2}
+  - Triangle: {fileID: 100000, guid: 0dfcaeba916a140449fd003b3a1f05ce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
